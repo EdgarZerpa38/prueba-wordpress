@@ -1,0 +1,46 @@
+/*
+  Theme Name: Prueba Wordpress
+  Author: Edgar Zerpa
+  Description: Tema personalizado para la Prueba de Wordpress
+  License: 
+  License URI: 
+*/
+
+/*--------------------------------------------------------------*/
+/* # GENERAL
+--------------------------------------------------------------*/
+*{
+  padding: 0px;
+  margin: 0px;
+}
+:root {
+  --color-blanco: #FFF;
+  --color-gris: #3C3935;
+  --color-rojo: #CE0E2D;
+  --color-gris-1: #F4F4F4;
+  --color-gris-2: #E6E6E6;
+  --color-gris-3: #878787;
+  --color-secondary: #3C3935;
+  --duration: 1s;
+  --nav-duration: calc(var(--duration) / 4);
+  --ease: cubic-bezier(0.215, 0.61, 0.355, 1);
+  --space: 1rem;
+  --line-height: 1.5;
+}
+a{
+  color: var(--color-gris);
+  text-decoration: none;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: var(--color-gris);
+  background-color: var(--color-blanco);
+  font-weight: normal;
+}
+/* # HOME
+--------------------------------------------------------------*/
+
+
+/* # RESPONSIVE
+--------------------------------------------------------------*/

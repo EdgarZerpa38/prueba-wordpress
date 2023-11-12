@@ -1,0 +1,4 @@
+Credenciales inicio de sesión:
+
+User: admin
+Contraseña: adminPruebaWordpress
